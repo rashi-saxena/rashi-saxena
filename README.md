@@ -8,34 +8,34 @@ I am a Software Engineer II with 6+ years of hands-on experience in full-stack s
  
 ### 🛠️ Skills
  
-**Languages**
+**Languages:**
 C#, Java, Python, TypeScript, JavaScript, SQL
  
-**Frameworks & APIs**
+**Frameworks & APIs:**
 .NET Core, ASP.NET Core, Spring Boot, React.js, Angular, REST APIs, GraphQL, gRPC, Entity Framework Core
  
-**Cloud & DevOps**
+**Cloud & DevOps:**
 Microsoft Azure (Container Apps, Key Vault, Log Analytics), AWS (EC2, Lambda, ECS, S3, Step Functions), Docker, GitHub Actions, Azure DevOps, CI/CD, Bicep / ARM Templates
  
-**Databases**
+**Databases:**
 SQL Server, PostgreSQL, CosmosDB, MongoDB, DynamoDB, Redis, EF Core Migrations
  
-**Messaging & Streaming**
+**Messaging & Streaming:**
 Azure Service Bus, Kafka, AWS SNS/SQS, Message Queues, Event-Driven Architecture
  
-**Architecture & Design**
+**Architecture & Design:**
 Microservices, Distributed Systems, System Design, Scalability, CQRS, SOLID Principles, Design Patterns
  
-**Observability**
+**Observability:**
 Azure Monitor, Log Analytics, Application Performance Monitoring (APM), OpenTelemetry, Datadog
  
-**Security**
+**Security:**
 OAuth2, OpenID Connect, Role-Based Access Control (RBAC), Azure Key Vault
  
-**Testing & Practices**
+**Testing & Practices:**
 xUnit, Cypress, Playwright, Jasmine, Unit Testing, Integration Testing, TDD, Agile, Scrum, Git
  
-**AI & Developer Tools**
+**AI & Developer Tools:**
 AI Agents, Model Context Protocol (MCP), GenAI, LLM Integration, Claude API (Anthropic), Claude Code, Amazon Bedrock, Azure OpenAI Service, Prompt Engineering, GitHub Copilot, Cursor
 
 <!--
